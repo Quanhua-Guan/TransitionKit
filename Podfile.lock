@@ -8,10 +8,12 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   TransitionKit:
-    :path: "."
+    :path: .
 
 SPEC CHECKSUMS:
   Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
   TransitionKit: 9ceccda4cd0cdc0a05ef85eb235e5a3292c3c250
 
-COCOAPODS: 0.37.2
+PODFILE CHECKSUM: 09ba2f9166238a0248a459840335892c9d62aedf
+
+COCOAPODS: 1.2.0
